@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NZWalk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b6a86f925e600533ebb1e6c34c0c7f159e41ea5")]
 [assembly: System.Reflection.AssemblyProductAttribute("NZWalk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NZWalk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
