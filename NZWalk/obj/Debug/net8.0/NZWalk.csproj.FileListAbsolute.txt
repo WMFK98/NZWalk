@@ -145,4 +145,3 @@
 /Users/kmt/RiderProjects/NZWalk/NZWalk/bin/Debug/net8.0/MySqlConnector.dll
 /Users/kmt/RiderProjects/NZWalk/NZWalk/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
 /Users/kmt/RiderProjects/NZWalk/NZWalk/bin/Debug/net8.0/AutoMapper.dll
-/Users/kmt/RiderProjects/NZWalk/NZWalk/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
